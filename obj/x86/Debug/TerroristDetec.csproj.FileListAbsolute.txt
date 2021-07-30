@@ -1,0 +1,17 @@
+C:\Users\Yuwantha\Desktop\TerroristDetectionSystem\bin\Debug\MultiFaceRec.exe
+C:\Users\Yuwantha\Desktop\TerroristDetectionSystem\bin\Debug\MultiFaceRec.pdb
+C:\Users\Yuwantha\Desktop\TerroristDetectionSystem\bin\Debug\Emgu.CV.xml
+C:\Users\Yuwantha\Desktop\TerroristDetectionSystem\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Yuwantha\Desktop\TerroristDetectionSystem\bin\Debug\Emgu.Util.xml
+C:\Users\Yuwantha\Desktop\TerroristDetectionSystem\obj\x86\Debug\TerroristDetec.csprojAssemblyReference.cache
+C:\Users\Yuwantha\Desktop\TerroristDetectionSystem\obj\x86\Debug\MultiFaceRec.DataM.resources
+C:\Users\Yuwantha\Desktop\TerroristDetectionSystem\obj\x86\Debug\MultiFaceRec.loginnew.resources
+C:\Users\Yuwantha\Desktop\TerroristDetectionSystem\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Yuwantha\Desktop\TerroristDetectionSystem\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\Yuwantha\Desktop\TerroristDetectionSystem\obj\x86\Debug\MultiFaceRec.Selection.resources
+C:\Users\Yuwantha\Desktop\TerroristDetectionSystem\obj\x86\Debug\TerroristDetec.csproj.GenerateResource.cache
+C:\Users\Yuwantha\Desktop\TerroristDetectionSystem\obj\x86\Debug\TerroristDetec.csproj.CopyComplete
+C:\Users\Yuwantha\Desktop\TerroristDetectionSystem\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\Yuwantha\Desktop\TerroristDetectionSystem\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\Yuwantha\Desktop\TerroristDetectionSystem\obj\x86\Debug\MultiFaceRec.adminlogin.resources
+C:\Users\Yuwantha\Desktop\TerroristDetectionSystem\obj\x86\Debug\MultiFaceRec.reg.resources
